@@ -2,7 +2,6 @@
   "version": 2,
   "builds": [
     {
-      "source": "package.json",
       "use": "@vercel/static-build",
       "config": {
         "distDir": "build"
@@ -14,8 +13,5 @@
       "source": "/(.*)",
       "destination": "/index.html"
     }
-  ],
-  "github": {
-    "silent": true
-  }
+  ]
 }
