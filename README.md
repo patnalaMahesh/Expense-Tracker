@@ -56,8 +56,8 @@ Experience the application live: [Expense Tracker](https://frontend-delta-plum-9
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/hemanth090/expense-tracker.git
-   cd expense-tracker
+   git https://github.com/patnalaMahesh/Expense-Tracker
+   cd Expense-Tracker
    ```
 
 2. Install frontend dependencies:
