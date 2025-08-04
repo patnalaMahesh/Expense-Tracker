@@ -149,6 +149,3 @@ For issues, feature requests, or contributions, please:
 2. Fork the repository
 3. Create a pull request with your changes
 
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
